@@ -1,2 +1,2 @@
 # TestProjectElectPanel
-the game which u should save the panel!
+the game which u can save the panel!
