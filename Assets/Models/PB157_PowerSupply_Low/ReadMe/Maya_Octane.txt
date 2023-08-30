@@ -1,0 +1,8 @@
+You can import a model in Maya with customized materials for Octane.
+
+1. Unzip all files from the archive PB157_PowerSupply_Low.zip into one folder.
+(Note that PB157_PowerSupply_Low.obj file and PB157_PowerSupply_Low_Octane.ma must be in the same folder.)
+2. Make sure currently selected render is Octane.
+3. Import PB157_PowerSupply_Low_Octane.ma into your project.
+
+(If you import the model into the project for the first time, it will not be inserted into the scene, import the model a second time so that it is inserted into the scene)

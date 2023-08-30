@@ -1,0 +1,8 @@
+You can import a model in Maya with customized materials for RenderMan.
+
+1. Unzip all files from the archive PB20_vognegasnyk_sm.zip into one folder.
+(Note that PB20_vognegasnyk_sm.obj file and PB20_vognegasnyk_sm_RenderMan.ma must be in the same folder.)
+2. Make sure currently selected render is RenderMan.
+3. Import PB20_vognegasnyk_sm_RenderMan.ma into your project.
+
+(If you import the model into the project for the first time, it will not be inserted into the scene, import the model a second time so that it is inserted into the scene)

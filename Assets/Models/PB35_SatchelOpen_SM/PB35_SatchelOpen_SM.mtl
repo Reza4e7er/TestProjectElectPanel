@@ -1,0 +1,12 @@
+newmtl _SatchelOpen_SM:lambert2SG
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd PB35_SatchelOpen_SM_albedo.jpg
+map_Ks PB35_SatchelOpen_SM_roughness.jpg
+bump PB35_SatchelOpen_SM_bump.png
+map_bump PB35_SatchelOpen_SM_normal.png

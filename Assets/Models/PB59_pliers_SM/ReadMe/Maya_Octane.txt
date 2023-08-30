@@ -1,0 +1,8 @@
+You can import a model in Maya with customized materials for Octane.
+
+1. Unzip all files from the archive PB59_pliers_SM.zip into one folder.
+(Note that PB59_pliers_SM.obj file and PB59_pliers_SM_Octane.ma must be in the same folder.)
+2. Make sure currently selected render is Octane.
+3. Import PB59_pliers_SM_Octane.ma into your project.
+
+(If you import the model into the project for the first time, it will not be inserted into the scene, import the model a second time so that it is inserted into the scene)

@@ -1,0 +1,8 @@
+You can import a model in Maya with customized materials for vRay.
+
+1. Unzip all files from the archive PB35_SatchelOpen_SM.zip into one folder.
+(Note that PB35_SatchelOpen_SM.obj file and PB35_SatchelOpen_SM_vRay.ma must be in the same folder.)
+2. Make sure currently selected render is vRay.
+3. Import PB35_SatchelOpen_SM_vRay.ma into your project.
+
+(If you import the model into the project for the first time, it will not be inserted into the scene, import the model a second time so that it is inserted into the scene)
